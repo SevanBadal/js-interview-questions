@@ -17,9 +17,7 @@ Questions are taken from [JavaScript Interview Prep: Practice Problems](https://
 - [Node.js](https://nodejs.org/) must be installed on your system.
 
 ### Installation
-- Clone the repository:
-  ```bash
-  git clone [URL to your repository]
+- Clone the repository
 - Navigate to the repository directory:
   ```
   cd js-interview-questions
