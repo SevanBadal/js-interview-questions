@@ -8,8 +8,8 @@ Questions are taken from [JavaScript Interview Prep: Practice Problems](https://
 ## Project Structure
 - Each interview question is in its own directory (e.g., `triple-add`).
 - Within each directory:
-  - `question.js`: A file containing the function or problem to be implemented.
-  - `question.test.js`: Jest tests for the implementation.
+  - `<question-name>.js`: A file containing the function or problem to be implemented.
+  - `<question-name>.test.js`: Jest tests for the implementation.
 
 ## Getting Started
 
